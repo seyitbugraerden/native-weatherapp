@@ -15,7 +15,7 @@ import {
 import React, { useState } from "react";
 import AntDesign from "@expo/vector-icons/AntDesign";
 const image = {
-  uri: "https://i.pinimg.com/736x/d0/0a/47/d00a47b9d9ef6df1559682e64f0b7426.jpg",
+  uri: "https://images.unsplash.com/photo-1557683304-673a23048d34?q=80&w=1700&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 const HomeScreen = () => {
   const [value, setValue] = useState("");
